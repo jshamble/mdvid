@@ -37,22 +37,22 @@ with codecs.open(input_name, 'r', encoding='utf-8') as fi, \
 					youtube_url_timestamp = ""
 				youtube_url = youtube_url.groups()[0]
 				new_line = re.sub(youtube_regex, '[![Watch the video](https://img.youtube.com/vi/' + youtube_url + '/sddefault.jpg)](' + youtube_begin_string + youtube_url + youtube_url_timestamp + ')', new_line)
-				youtube_html = requests.get(youtube_begin_string + youtube_url) 
-				youtube = etree.HTML(youtube_html.text)
-				video_title = youtube.xpath("//span[@id='eow-title']/@title")
-				video_desc = youtube.xpath("//p[@id='eow-description']/text()")
 				
-				title_to_be_decoded = ''.join(video_title)
-				desc_to_be_decoded = ''.join(video_desc)
-			
-				# print( title_to_be_decoded.encode("utf-8") )
-				# print(desc_to_be_decoded.encode("utf-8"))
+				if(print_title or print_desc):
+					youtube_html = requests.get(youtube_begin_string + youtube_url) 
+					youtube = etree.HTML(youtube_html.text)
 				
 				if(print_title):
+					video_title = youtube.xpath("//span[@id='eow-title']/@title")
+					title_to_be_decoded = ''.join(video_title)
 					fo.write( (b'# ' + (title_to_be_decoded.encode('utf-8')) + b"\n").decode() )
+					# print( title_to_be_decoded.encode("utf-8") )
 				fo.write(new_line)
 				if(print_desc):
+					video_desc = youtube.xpath("//p[@id='eow-description']/text()")
+					desc_to_be_decoded = ''.join(video_desc)
 					fo.write( (b'# ' + (desc_to_be_decoded.encode('utf-8')) + b"\n").decode() )
+					# print(desc_to_be_decoded.encode("utf-8"))
 		
 os.remove(output_name) # remove output
 os.rename(tmp_name, output_name) # rename temp to output name
