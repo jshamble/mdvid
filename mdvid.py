@@ -7,9 +7,13 @@ import re
 from lxml import etree
 import requests
 
+
 input_name = 'in.md'
 tmp_name = 'tmp.md'
 output_name = 'out.md'
+
+print_title = True
+print_desc = False
 
 youtube_begin_string = "http://www.youtube.com/watch?v="
 
@@ -36,10 +40,19 @@ with codecs.open(input_name, 'r', encoding='utf-8') as fi, \
 				youtube_html = requests.get(youtube_begin_string + youtube_url) 
 				youtube = etree.HTML(youtube_html.text)
 				video_title = youtube.xpath("//span[@id='eow-title']/@title")
+				video_desc = youtube.xpath("//p[@id='eow-description']/text()")
+				
 				title_to_be_decoded = ''.join(video_title)
+				desc_to_be_decoded = ''.join(video_desc)
+			
 				# print( title_to_be_decoded.encode("utf-8") )
-				fo.write( (b'# ' + (title_to_be_decoded.encode('utf-8')) + b"\n").decode() )
+				# print(desc_to_be_decoded.encode("utf-8"))
+				
+				if(print_title):
+					fo.write( (b'# ' + (title_to_be_decoded.encode('utf-8')) + b"\n").decode() )
 				fo.write(new_line)
+				if(print_desc):
+					fo.write( (b'# ' + (desc_to_be_decoded.encode('utf-8')) + b"\n").decode() )
 		
 os.remove(output_name) # remove output
 os.rename(tmp_name, output_name) # rename temp to output name
