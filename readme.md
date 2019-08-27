@@ -11,7 +11,8 @@ python mdvid.py (make sure to use python 3, you may need to create an alias for 
 inputfile = in.md
 outputfile = out.md
 
-Preview with Visual studio code with the follwoing key sequence: "( cmd(mac) or ctrl(windows) ) + k" then press "v"
+Preview with Visual studio code with the follwoing key sequence: open the file (file.md), then
+"( cmd(mac) or ctrl(windows) ) + k" then press "v". the preview with youtube video thumbnails should now be located to your right. Happy Listening!
 
 ## Regex tested with to https://regexr.com/ and stackoverflow... includes timestamps, playlists and others... any feedback / non-working input is welcome, will update the regex as nesc. Wish to also preview html pages with a similar method; alas, perhaps this is not possible...
 
