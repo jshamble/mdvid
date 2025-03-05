@@ -6,6 +6,18 @@ import re
 
 from lxml import etree
 import requests
+import yt_dlp
+
+
+def get_youtube_title(url):
+    ydl_opts = {"quiet": True}
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(url, download=False)
+            return info.get("title", "Title not found")
+    except yt_dlp.utils.DownloadError as e:
+        print(f"Skipping (private video) {url}: {e}")
+        return None  # Or return a placeholder string like "Unavailable Video"
 
 
 input_name = 'in.md'
@@ -31,11 +43,16 @@ with codecs.open(input_name, 'r', encoding='utf-8') as fi, \
 		new_line = line # do_processing(line) # do your line processing here
 		if "http://www.youtube.com" in line or "https://www.youtube.com" in line:
 				youtube_url = re.search(youtube_regex, new_line)
+				
 				if(youtube_url != None):
 					youtube_url_timestamp = youtube_url.groups()[1];
 					if (youtube_url_timestamp == None):
 						youtube_url_timestamp = ""
 					youtube_url = youtube_url.groups()[0]
+					title = get_youtube_title(youtube_url);
+					
+					if(title == None):
+						continue
 					
 					# updated it so that already processed videos with this program are unchanged.
 					if not "[![" in line:
@@ -46,10 +63,12 @@ with codecs.open(input_name, 'r', encoding='utf-8') as fi, \
 						youtube = etree.HTML(youtube_html.text)
 					
 					if(print_title):
-						video_title = youtube.xpath("//span[@id='eow-title']/@title")
-						title_to_be_decoded = ''.join(video_title)
-						fo.write( (b'# ' + (title_to_be_decoded.encode('utf-8')) + b"\n").decode() )
-						# print( title_to_be_decoded.encode("utf-8") )
+						#print(youtube);
+						#video_title = youtube.xpath("//span[@id='eow-title']/@title")
+						#title_to_be_decoded = ''.join(video_title)
+						fo.write( (b'# ' + (title.encode('utf-8')) + b"\n").decode() )
+						#print(title)
+						#print( title_to_be_decoded.encode("utf-8") )
 					fo.write(new_line)
 					if(print_desc):
 						video_desc = youtube.xpath("//p[@id='eow-description']/text()")

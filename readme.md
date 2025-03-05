@@ -4,12 +4,24 @@
 
 ## Supports mulitlanguage titles (utf-8)
 
-### usage: converting more vidoes into a previewable format: 
+### usage: converting more videos into a previewable format: 
 
 python mdvid.py (make sure to use python 3, you may need to create an alias for it)
 
 inputfile = in.md
 outputfile = out.md
+
+### depedencies
+
+Python 3, can install with homebrew
+
+brew install python3
+
+lxml and requests python libraries:
+
+pip3 install lxml --break-system-packages
+pip3 install requests --break-system-packages
+pip3 install yt-dlp --break-system-packages
 
 ### viewing
 
