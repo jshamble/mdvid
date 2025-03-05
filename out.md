@@ -256,8 +256,6 @@
 [![Watch the video](https://img.youtube.com/vi/rm-IAwI6C54/sddefault.jpg)](http://www.youtube.com/watch?v=rm-IAwI6C54)
 # 5 Reasons Why You May Feel Like An Outcast | Why You Feel Like An Outcast Right Now...
 [![Watch the video](https://img.youtube.com/vi/zqOEqa1xYpw/sddefault.jpg)](http://www.youtube.com/watch?v=zqOEqa1xYpw)
-# Build UNBREAKABLE SELF-ESTEEM | 7 Reality-Shattering Ways To Get It
-[![Watch the video](https://img.youtube.com/vi/_AuQN0AOZL8/sddefault.jpg)](http://www.youtube.com/watch?v=_AuQN0AOZL8)
 # World's End Dance Hall - English & Chinese Sub - Miku & Luka - sm12326781
 [![Watch the video](https://img.youtube.com/vi/0y6J7kqc9_4/sddefault.jpg)](http://www.youtube.com/watch?v=0y6J7kqc9_4)
 # The most wonderful song ever : The Spinning Song || Improved Original Audio and English Subtitles
@@ -354,8 +352,6 @@
 [![Watch the video](https://img.youtube.com/vi/jn8EtaxGJP0/sddefault.jpg)](http://www.youtube.com/watch?v=jn8EtaxGJP0)
 # Clannad OST ~ Snowfield
 [![Watch the video](https://img.youtube.com/vi/o6BgI6IVnQU/sddefault.jpg)](http://www.youtube.com/watch?v=o6BgI6IVnQU)
-# Why Andrew Yang Is Putting It All on Universal Basic Income | NowThis
-[![Watch the video](https://img.youtube.com/vi/aZYX0lEwtSA/sddefault.jpg)](http://www.youtube.com/watch?v=aZYX0lEwtSA)
 # Joanie Sommers -- Johnny Get Angry
 [![Watch the video](https://img.youtube.com/vi/wcLXs3Np93s/sddefault.jpg)](http://www.youtube.com/watch?v=wcLXs3Np93s)
 # MASA MATSUDA(Pianica),KIYOSHI TAKESHITA(Pf)
@@ -368,10 +364,6 @@
 [![Watch the video](https://img.youtube.com/vi/O1ECywGi4gw/sddefault.jpg)](http://www.youtube.com/watch?v=O1ECywGi4gw)
 # Tom Brier - " Peril in Pantomime"
 [![Watch the video](https://img.youtube.com/vi/HE0yJ7L_k7s/sddefault.jpg)](http://www.youtube.com/watch?v=HE0yJ7L_k7s)
-# Sundar Pichai Inspirational Video | Follow Your Passion | Motivational Speech | Startup Stories
-[![Watch the video](https://img.youtube.com/vi/m050iy5_2ng/sddefault.jpg)](http://www.youtube.com/watch?v=m050iy5_2ng)
-# At 15 Years old, I Was Told I Had 6 Months to Live
-[![Watch the video](https://img.youtube.com/vi/xsIRoXxEQUw/sddefault.jpg)](http://www.youtube.com/watch?v=xsIRoXxEQUw)
 # Mad Mew Mew | Undertale (Nintendo Switch) | MIDI Remaster
 [![Watch the video](https://img.youtube.com/vi/OCHhhHaCDyo/sddefault.jpg)](http://www.youtube.com/watch?v=OCHhhHaCDyo)
 # THE WORLD REVOLVING (Jevil's Theme) - Deltarune (Extended)
@@ -384,8 +376,6 @@
 [![Watch the video](https://img.youtube.com/vi/7RGcoR4pjBc/sddefault.jpg)](http://www.youtube.com/watch?v=7RGcoR4pjBc)
 # 【古琴Guqin】《初见》---古琴深情獨奏《东宫》主題曲 | 自得琴社
 [![Watch the video](https://img.youtube.com/vi/FQZ2UgvuzW8/sddefault.jpg)](http://www.youtube.com/watch?v=FQZ2UgvuzW8)
-# 1 dead, 5 infected by mold at Seattle Children's Hospital
-[![Watch the video](https://img.youtube.com/vi/Ehq5uexOTmY/sddefault.jpg)](http://www.youtube.com/watch?v=Ehq5uexOTmY)
 # One Piece OST • NEW WORLD • Gear Fourth
 [![Watch the video](https://img.youtube.com/vi/kBiEZiBKQjc/sddefault.jpg)](http://www.youtube.com/watch?v=kBiEZiBKQjc)
 # Fallen Down (UNDERTALE) [accordion cover]
@@ -406,16 +396,12 @@
 [![Watch the video](https://img.youtube.com/vi/wGcyKEZtWuE/sddefault.jpg)](http://www.youtube.com/watch?v=wGcyKEZtWuE)
 # OST Sad Hunter x Hunter, Hikari ga Mienai
 [![Watch the video](https://img.youtube.com/vi/pfWz4NXNeTM/sddefault.jpg)](http://www.youtube.com/watch?v=pfWz4NXNeTM)
-# Going to Jail in China...
-[![Watch the video](https://img.youtube.com/vi/1V1Tiavb5GE/sddefault.jpg)](http://www.youtube.com/watch?v=1V1Tiavb5GE)
 # OST Hunter x Hunter Senritsu Kurapica Piano II Theme
 [![Watch the video](https://img.youtube.com/vi/Rq7daMh_NZY/sddefault.jpg)](http://www.youtube.com/watch?v=Rq7daMh_NZY)
 # Kong Audio Bian Zhong VSTi - Introduction and the Making of 空音軟件曾侯乙編鐘 eng
 [![Watch the video](https://img.youtube.com/vi/CqxvJkQSSps/sddefault.jpg)](http://www.youtube.com/watch?v=CqxvJkQSSps)
 # Original Short Animation Mountain Shu
 [![Watch the video](https://img.youtube.com/vi/_t91dD8pH9A/sddefault.jpg)](http://www.youtube.com/watch?v=_t91dD8pH9A)
-# What makes the Great Wall of China so extraordinary - Megan Campisi and Pen-Pen Chen
-[![Watch the video](https://img.youtube.com/vi/23oHqNEqRyo/sddefault.jpg)](http://www.youtube.com/watch?v=23oHqNEqRyo)
 # Mario Party 5 Soundtrack: Sign Attack
 [![Watch the video](https://img.youtube.com/vi/uRlFUGWT6zE/sddefault.jpg)](http://www.youtube.com/watch?v=uRlFUGWT6zE)
 # The myth behind the Chinese zodiac - Megan Campisi and Pen-Pen Chen
@@ -440,8 +426,6 @@
 [![Watch the video](https://img.youtube.com/vi/7P7jdnU06ew/sddefault.jpg)](http://www.youtube.com/watch?v=7P7jdnU06ew)
 # Yu-Gi-Oh! Duel Monsters - Berserker Soul
 [![Watch the video](https://img.youtube.com/vi/321wCzRSySw/sddefault.jpg)](http://www.youtube.com/watch?v=321wCzRSySw)
-# KAIDO & MOMO's SHOCKING Past! - Vegapunk and DNA | ONE PIECE
-[![Watch the video](https://img.youtube.com/vi/oN_JJHZ4QdQ/sddefault.jpg)](http://www.youtube.com/watch?v=oN_JJHZ4QdQ)
 # Dragonball Z - Goku Heals Theme (Extended)
 [![Watch the video](https://img.youtube.com/vi/0OPh9NM5G9U/sddefault.jpg)](http://www.youtube.com/watch?v=0OPh9NM5G9U)
 # Lost Ancient Ruins - Light World Dungeon - The Legend of Zelda: A Link to the Past
